@@ -1,3 +1,3 @@
-document.body.onload = function => {
+document.body.onload = () => {
   alert("whatup yo.")
 }
